@@ -17,7 +17,7 @@ const NavBar = (props) => {
     const { isUserLoggedIn, handleAuth } = props
     return (
         <div>
-            <Toolbar className="toolbar">
+            <Toolbar className="toolbar" >
                 <Typography style={{ flexGrow: 1 }} variant="h4" className="toolbartitle" >User authentication</Typography>
                 <Button><Link to="/"> Home</Link></Button>
                 {isUserLoggedIn ? (
