@@ -1,6 +1,6 @@
 # My notes App
 
-This app helps to users who can register and login to application, can get the account details also can **add**, **edit** and **delete** notes from the notes list.
+This app helps to users who can register and login to application, can get the account details also can **add**, **edit** and **delete** notes from the list.
 
 
 ## Features
